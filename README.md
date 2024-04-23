@@ -1,6 +1,6 @@
 # Student Performance Prediction Model in Tenserflow
 
-['Student Performance Prediction'](https://sansone-ac.com/wp-content/uploads/2022/12/Does-Classroom-Temperature-Affect-Students-Performance.jpg)
+![Student Performance Prediction](https://sansone-ac.com/wp-content/uploads/2022/12/Does-Classroom-Temperature-Affect-Students-Performance.jpg)
 
 This project aims to predict the final grades of students based on various socio-economic and personal attributes. The dataset used for this prediction contains information about students' demographics, family background, study habits, and other related factors.
 
