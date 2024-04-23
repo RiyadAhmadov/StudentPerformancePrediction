@@ -63,4 +63,4 @@ The `predict` function takes input data about a student and returns the predicte
 
 - Riyad Ahmadov - riyadehmedov03@gmail.com
 
-## Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## You can look at and practice app at [Student Performance Prediction App](https://huggingface.co/spaces/riyadahmadov/student_performance_models)
