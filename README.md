@@ -39,6 +39,8 @@ The dataset includes the following features:
 29. **health**: Current health status.
 30. **absences**: Number of school absences.
 
+## Dataset link: [Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)
+
 ## Model Prediction
 
 The project utilizes TensorFlow and Keras to build predictive models based on the provided dataset. Three separate models are trained to predict the students' grades at different periods: G1, G2, and the final grade G3.
